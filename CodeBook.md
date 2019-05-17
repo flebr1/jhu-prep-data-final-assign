@@ -31,12 +31,12 @@ An integer ranging from 1 to 30.
 
 Label of the activity performed by the subject. 
 Either of: 
-WALKING
-WALKING_UPSTAIRS
-WALKING_DOWNSTAIRS
-SITTING
-STANDING
-LAYING
+- WALKING
+- WALKING_UPSTAIRS
+- WALKING_DOWNSTAIRS
+- SITTING
+- STANDING
+- LAYING
 
 3. tBodyAcc-mean-X-mean
 

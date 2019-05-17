@@ -1,4 +1,4 @@
-# Generation of a summarized dataset based on the 'Human Activity Recognition Using Smartphones Dataset'
+# Generation of a summarized dataset based on the 'Human Activity Recognition Using Smartphones Dataset' from UCI
 
 ## About the Original Dataset
 
